@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("=== GO BASIC SYNTAX EXAMPLES ===\n")
+	fmt.Println("=== GO BASIC SYNTAX EXAMPLES ===")
 
 	// LOOPS EXAMPLES
 	fmt.Println("🔄 LOOPS EXAMPLES")
@@ -40,4 +40,3 @@ func main() {
 
 	fmt.Println("✅ All Go syntax examples completed!")
 }
-
